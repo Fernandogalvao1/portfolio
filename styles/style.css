@@ -168,6 +168,8 @@ color: var(--cor-terciaria);
     .rodape {
         width: auto;
         font-size: 1rem;
+        text-align: center;
+        
     }
 
     
