@@ -167,7 +167,7 @@ color: var(--cor-terciaria);
 
     .rodape {
         display: flex;
-        width: auto;
+       
         font-size: 1rem;
        justify-content: center;
         
