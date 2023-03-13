@@ -157,7 +157,7 @@ color: var(--cor-terciaria);
    
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 6%;
         
     }
 
